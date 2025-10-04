@@ -21,6 +21,7 @@ const Contact = () => {
       .then(
         () => {
           setSucces(true)
+          formRef.current.reset()
         },
         (err) => {
           setError(true)

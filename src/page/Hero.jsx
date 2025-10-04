@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="wrapper max-w-7xl mx-auto pt-25 px-4 flex flex-col md:flex-row items-center justify-between">
         <div className="flex flex-col justify-center items-start gap-8 w-full md:w-2/3">
           <h1 className="text-[#663399] tracking-[8px] text-3xl sm:text-4xl font-bold mb-2 animate-pulse">
-            KAMLESH KUMWT
+            KAMLESH KUMAWAT
           </h1>
           <h2 className="text-4xl sm:text-6xl font-extrabold text-white mb-4">
             FULL-STACK <br /> WEB DEVELOPER
