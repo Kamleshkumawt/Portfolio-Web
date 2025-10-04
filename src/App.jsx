@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from './page/hero'
+import Hero from './page/Hero'
 import Contact from './page/Contact'
 import About from './page/About'
 import Skill from './page/Skill'
